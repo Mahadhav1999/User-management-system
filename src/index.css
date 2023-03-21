@@ -1,0 +1,22 @@
+html {
+    font-size: 1rem;
+}
+
+body {
+    margin: 20px;
+    height: 100%;
+    overflow-x: hidden;
+    overflow-y: auto;
+    font-family: var(--font-family);
+    font-weight: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.bg-hero{
+    background-image: url(/public/images/bg-2.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:right center;
+}
