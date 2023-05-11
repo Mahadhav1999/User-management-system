@@ -1,18 +1,18 @@
 {
   "users": [
     {
-      "username": "Mahadev",
+      "username": "Mahadev1",
       "email": "mahadev@test.com",
       "gender": "Male",
       "age": "24",
       "id": "MkEr-of"
     },
     {
-      "username": "Swati",
-      "email": "swati@test.com",
-      "gender": "Female",
+      "username": "Mahadev",
+      "email": "mahadev@gmail.com",
+      "gender": "Male",
       "age": "24",
-      "id": "QraE2P3"
+      "id": "Pz4HVHs"
     }
   ]
 }
